@@ -30,7 +30,7 @@ Whenever a file is uploaded to an S3 bucket, a Lambda function is triggered that
 ---
 
 ## 📧 Example Email Alert
-![SNS Email Alert](log1.png)
+![SNS Email Alert]()
 
 ## 📜 Example CloudWatch Log
 ![CloudWatch Log](log2.png)
