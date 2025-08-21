@@ -29,8 +29,11 @@ Whenever a file is uploaded to an S3 bucket, a Lambda function is triggered that
      ```
 ---
 
-## 📧 Example Alert
-🚨 New file uploaded!
+## 📧 Example Email Alert
+![SNS Email Alert](log1.png)
+
+## 📜 Example CloudWatch Log
+![CloudWatch Log](log2.png)
 Bucket: lambda-test-bucket-dhruti
 File: test.txt
 Size: 1428 bytes
